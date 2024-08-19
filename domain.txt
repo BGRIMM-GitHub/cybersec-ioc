@@ -1,5 +1,6 @@
 lo4d.com
 softonic.com
+softonic-th.com
 ###SEC###
 
 ns1.akacur.tk
