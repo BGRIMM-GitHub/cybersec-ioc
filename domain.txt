@@ -1,8 +1,3 @@
-lo4d.com
-softonic.com
-softonic-th.com
-###SEC###
-
 ns1.akacur.tk
 ns2.akacur.tk
 orange-breeze-66bb.tezsfsoikdvd.workers.dev
