@@ -1,7 +1,3 @@
-http://wrs21.winshipway.com/
-https://download.cnet.com
-
-###SEC###
 https://ies.inquirer.com.ph/advprod03/assets/images/Advisory23-UCDMS04-11-01.zip
 http://files.philbendeck.com/
 www.shoppingexpert.it:80:/wp-content/gallery/
