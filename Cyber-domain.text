@@ -1,4 +1,5 @@
-sourceforge.net
-lo4d.com
-softonic.com
-softonic-th.com
+*.sourceforge.net
+*.lo4d.com
+*.softonic.com
+*.softonic-th.com
+*.zerogameth.com
