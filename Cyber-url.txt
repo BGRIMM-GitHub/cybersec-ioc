@@ -174,4 +174,4 @@ http://185.177.239.139/KHK.dof
 https://www.wps.com/
 https://fitangelbikinis.com.au
 https://d.cache.wpscdn.com/d/
-https://cdn01.foxitsoftware.com/product/reader/desktop/win/2025.2.1/FoxitPDFReader202521_L10N_Setup_Prom_x64.exe
+
