@@ -227,3 +227,4 @@ https://RT.COM/NEWS
 https://juicyads.com/
 https://metatrader5.com/
 http://st5.rcvlink.com/
+https://github.com/ollama/ollama/releases/download/
