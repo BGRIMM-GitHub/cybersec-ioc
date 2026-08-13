@@ -229,3 +229,12 @@ https://metatrader5.com/
 http://st5.rcvlink.com/
 https://github.com/ollama/ollama/releases/download/
 https://rushabhgroup-my.sharepoint.com
+https://github.com/meta-llama/llama-models
+https://github.com/deepseek-ai/DeepSeek-V3
+https://github.com/QwenLM/Qwen
+https://github.com/mistralai/mistral-inference
+https://github.com/THUDM/GLM-4
+https://github.com/ggml-org/llama.cpp 
+https://github.com/oobabooga/text-generation-webui 
+https://github.com/nomic-ai/gpt4all
+https://github.com/mudler/LocalAI
