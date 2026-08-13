@@ -213,3 +213,4 @@ DateTime,AlertDateTime,Case,AlertName,Status,Comment,LogType
 "2026-08-13T03:52:21.2708100Z","2026-08-13 09:55:30 UTC+07","27266","O365_SUSPICIOUS_EMAIL_PATTERN_P4","Block","Salescharoensupengineering789@hotmail.com","OFFICE_365"
 "2026-08-13T03:56:24.9281332Z","2026-08-13 10:07:30 UTC+07","27268","O365_SUSPICIOUS_EMAIL_PATTERN_P4","Block","Salescharoensupengineering789@hotmail.com","OFFICE_365"
 "2026-08-13T03:56:27.8787136Z","2026-08-13 10:02:30 UTC+07","27267","O365_SUSPICIOUS_EMAIL_PATTERN_P4","Block","Salescharoensupengineering789@hotmail.com","OFFICE_365"
+"2026-08-13T03:59:38.9530056Z","2026-08-13 09:50:30 UTC+07","27265","O365_SUSPICIOUS_EMAIL_PATTERN_P4","Block","Salescharoensupengineering789@hotmail.com","OFFICE_365"
