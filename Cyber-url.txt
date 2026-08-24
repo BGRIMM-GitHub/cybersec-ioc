@@ -239,3 +239,4 @@ https://github.com/oobabooga/text-generation-webui
 https://github.com/nomic-ai/gpt4all
 https://github.com/mudler/LocalAI
 HTTPS://US.DOWNLOAD.NVIDIA.COM/WINDOWS/610.88/610.88-DESKTOP-WIN10-WIN11-64BIT-INTERNATIONAL-DCH-WHQL.EXE 
+HTTPS://APP-ASSETS.RAZER.COM/FILES/SYNAPSE/RAZERAPPENGINEUPGRADE-V4.0.699.EXE?PINDEX=3
