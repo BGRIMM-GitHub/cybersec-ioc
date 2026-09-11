@@ -240,3 +240,5 @@ https://github.com/nomic-ai/gpt4all
 https://github.com/mudler/LocalAI
 HTTPS://US.DOWNLOAD.NVIDIA.COM/WINDOWS/610.88/610.88-DESKTOP-WIN10-WIN11-64BIT-INTERNATIONAL-DCH-WHQL.EXE 
 HTTPS://APP-ASSETS.RAZER.COM/FILES/SYNAPSE/RAZERAPPENGINEUPGRADE-V4.0.699.EXE?PINDEX=3
+https://goodmorningamerica.storage.googleapis.com/37b3314e72eb47.html
+https://goodmorningamerica.storage.googleapis.com/7e61b00a163049.html
