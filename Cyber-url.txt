@@ -242,3 +242,7 @@ HTTPS://US.DOWNLOAD.NVIDIA.COM/WINDOWS/610.88/610.88-DESKTOP-WIN10-WIN11-64BIT-I
 HTTPS://APP-ASSETS.RAZER.COM/FILES/SYNAPSE/RAZERAPPENGINEUPGRADE-V4.0.699.EXE?PINDEX=3
 https://goodmorningamerica.storage.googleapis.com/37b3314e72eb47.html
 https://goodmorningamerica.storage.googleapis.com/7e61b00a163049.html
+https://storage.googleapis.com/jellytideusb/ls
+https://storage.googleapis.com/jellytide/ls
+https://i.8upload.com/image/e47ac745206df6db/scr-20260911-lyax.jpg
+https://i.8upload.com/image/c069f8c7523d5e9b/scr-20260911-lycs.png
