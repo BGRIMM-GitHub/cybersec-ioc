@@ -247,3 +247,4 @@ https://storage.googleapis.com/jellytideusb/ls
 https://storage.googleapis.com/jellytide/ls
 https://i.8upload.com/image/e47ac745206df6db/scr-20260911-lyax.jpg
 https://i.8upload.com/image/c069f8c7523d5e9b/scr-20260911-lycs.png
+https://www.deepseek.com/en/download/
